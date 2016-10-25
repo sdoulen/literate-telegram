@@ -1,6 +1,6 @@
 //
-//  AppBodyUITests.m
-//  AppBodyUITests
+//  literate_telegramUITests.m
+//  literate-telegramUITests
 //
 //  Created by Shane Doulen on 10/24/16.
 //  Copyright © 2016 Shane Doulen. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface AppBodyUITests : XCTestCase
+@interface literate_telegramUITests : XCTestCase
 
 @end
 
-@implementation AppBodyUITests
+@implementation literate_telegramUITests
 
 - (void)setUp {
     [super setUp];

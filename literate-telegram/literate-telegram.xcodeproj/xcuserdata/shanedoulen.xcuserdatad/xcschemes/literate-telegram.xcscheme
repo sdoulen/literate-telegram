@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "AE5948201DBEEE1D004BA3CD"
-               BuildableName = "AppBody.app"
-               BlueprintName = "AppBody"
-               ReferencedContainer = "container:AppBody.xcodeproj">
+               BlueprintIdentifier = "AE5948651DBEF1F1004BA3CD"
+               BuildableName = "literate-telegram.app"
+               BlueprintName = "literate-telegram"
+               ReferencedContainer = "container:literate-telegram.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "AE59483F1DBEEE1E004BA3CD"
-               BuildableName = "AppBodyTests.xctest"
-               BlueprintName = "AppBodyTests"
-               ReferencedContainer = "container:AppBody.xcodeproj">
+               BlueprintIdentifier = "AE5948841DBEF1F2004BA3CD"
+               BuildableName = "literate-telegramTests.xctest"
+               BlueprintName = "literate-telegramTests"
+               ReferencedContainer = "container:literate-telegram.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "AE59484A1DBEEE1E004BA3CD"
-               BuildableName = "AppBodyUITests.xctest"
-               BlueprintName = "AppBodyUITests"
-               ReferencedContainer = "container:AppBody.xcodeproj">
+               BlueprintIdentifier = "AE59488F1DBEF1F2004BA3CD"
+               BuildableName = "literate-telegramUITests.xctest"
+               BlueprintName = "literate-telegramUITests"
+               ReferencedContainer = "container:literate-telegram.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AE5948201DBEEE1D004BA3CD"
-            BuildableName = "AppBody.app"
-            BlueprintName = "AppBody"
-            ReferencedContainer = "container:AppBody.xcodeproj">
+            BlueprintIdentifier = "AE5948651DBEF1F1004BA3CD"
+            BuildableName = "literate-telegram.app"
+            BlueprintName = "literate-telegram"
+            ReferencedContainer = "container:literate-telegram.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AE5948201DBEEE1D004BA3CD"
-            BuildableName = "AppBody.app"
-            BlueprintName = "AppBody"
-            ReferencedContainer = "container:AppBody.xcodeproj">
+            BlueprintIdentifier = "AE5948651DBEF1F1004BA3CD"
+            BuildableName = "literate-telegram.app"
+            BlueprintName = "literate-telegram"
+            ReferencedContainer = "container:literate-telegram.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AE5948201DBEEE1D004BA3CD"
-            BuildableName = "AppBody.app"
-            BlueprintName = "AppBody"
-            ReferencedContainer = "container:AppBody.xcodeproj">
+            BlueprintIdentifier = "AE5948651DBEF1F1004BA3CD"
+            BuildableName = "literate-telegram.app"
+            BlueprintName = "literate-telegram"
+            ReferencedContainer = "container:literate-telegram.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>AppBody.xcscheme</key>
+		<key>literate-telegram.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>AE5948201DBEEE1D004BA3CD</key>
+		<key>AE5948651DBEF1F1004BA3CD</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>AE59483F1DBEEE1E004BA3CD</key>
+		<key>AE5948841DBEF1F2004BA3CD</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>AE59484A1DBEEE1E004BA3CD</key>
+		<key>AE59488F1DBEF1F2004BA3CD</key>
 		<dict>
 			<key>primary</key>
 			<true/>
