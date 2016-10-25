@@ -17,6 +17,7 @@
 		AE59487F1DBEF1F2004BA3CD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE59487D1DBEF1F2004BA3CD /* LaunchScreen.storyboard */; };
 		AE59488A1DBEF1F2004BA3CD /* literate_telegramTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AE5948891DBEF1F2004BA3CD /* literate_telegramTests.m */; };
 		AE5948951DBEF1F2004BA3CD /* literate_telegramUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = AE5948941DBEF1F2004BA3CD /* literate_telegramUITests.m */; };
+		AE5948A31DBEF615004BA3CD /* IMG_0011.JPG in Resources */ = {isa = PBXBuildFile; fileRef = AE5948A21DBEF615004BA3CD /* IMG_0011.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		AE5948901DBEF1F2004BA3CD /* literate-telegramUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "literate-telegramUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE5948941DBEF1F2004BA3CD /* literate_telegramUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = literate_telegramUITests.m; sourceTree = "<group>"; };
 		AE5948961DBEF1F2004BA3CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AE5948A21DBEF615004BA3CD /* IMG_0011.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_0011.JPG; path = "../../../Library/Containers/com.apple.cloudphotosd/Data/Library/Application Support/com.apple.cloudphotosd/services/com.apple.photo.icloud.sharedstreams/assets/F3C08F09-11AB-44EA-B81E-3CFB15FFB444/31757A61-DF27-4148-BA3A-A81CDFC56BEC/IMG_0011.JPG"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 		AE59485D1DBEF1F1004BA3CD = {
 			isa = PBXGroup;
 			children = (
+				AE5948A21DBEF615004BA3CD /* IMG_0011.JPG */,
 				AE5948681DBEF1F1004BA3CD /* literate-telegram */,
 				AE5948881DBEF1F2004BA3CD /* literate-telegramTests */,
 				AE5948931DBEF1F2004BA3CD /* literate-telegramUITests */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AE59487F1DBEF1F2004BA3CD /* LaunchScreen.storyboard in Resources */,
+				AE5948A31DBEF615004BA3CD /* IMG_0011.JPG in Resources */,
 				AE59487C1DBEF1F2004BA3CD /* Assets.xcassets in Resources */,
 				AE59487A1DBEF1F1004BA3CD /* Main.storyboard in Resources */,
 			);
